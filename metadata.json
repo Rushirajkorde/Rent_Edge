@@ -1,0 +1,6 @@
+{
+  "name": "RentEdge",
+  "description": "A rental risk management platform featuring a patented escalating fine system and seamless UPI payment integration.",
+  "theme_color": "#1B2A41",
+  "requestFramePermissions": []
+}
